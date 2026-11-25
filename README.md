@@ -11,7 +11,7 @@ This repo is my personal dump of exploit scripts, custom crypto-breakers, and di
 
 | Wargame | Focus | Status | Gists |
 | :--- | :--- | :--- | :--- |
-| **[Bandit](https://overthewire.orgwargames/bandit/)** | Linux Recon & Basic Ops | `COMPLETED` | Skipped half the man pages, automated the rest. [View Gist](https://github.com) |
+| **[Bandit](https://overthewire.orgwargames/bandit/)** | Linux Recon & Basic Ops | `COMPLETED` | read man pages, automated the rest. [View Gist](https://gist.github.com/sudochaithra/adb9bdd7d30dbe2e18f0ada1e1a5d43c) |
 | **[Natas](https://overthewire.orgwargames/natas/)** | Server-Side Web & SQLi | `IN PROGRESS` | Spoofing sessions and pulling files off sloppy servers. [View Gist](https://github.com) |
 | **[Krypton](https://overthewire.orgwargames/krypton/)** | Signals & Cryptography | `IN PROGRESS` | Cracking substitution ciphers while humming Journey. [View Gist](https://github.com) |
 | **[Narnia](https://overthewire.orgwargames/narnia/)** | Memory & Buffer Overflows | `QUEUED` | Warm-up before the heavy lifting. [View Gist](https://github.com) |
